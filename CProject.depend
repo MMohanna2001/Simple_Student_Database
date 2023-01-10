@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1673352559 source:f:\amit\c_project\cproject\main.c
+	"SDBAPP.h"
+
+1673305205 f:\amit\c_project\cproject\std.h
+
+1673359210 source:f:\amit\c_project\cproject\sdb.c
+	"SDB.h"
+	<stdio.h>
+	<stdlib.h>
+
+1673305205 f:\amit\c_project\cproject\sdb.h
+	"STD.h"
+
+1673357836 source:f:\amit\c_project\cproject\sdbapp.c
+	<stdio.h>
+	<stdlib.h>
+	"STD.h"
+	"SDB.h"
+	"SDBAPP.h"
+
+1673360792 f:\amit\c_project\cproject\sdbapp.h
+	"STD.h"
+
